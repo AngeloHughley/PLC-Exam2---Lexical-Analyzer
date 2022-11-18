@@ -1,0 +1,17 @@
+
+class Main {
+  public method main ( void ) {
+    num counter = 0_4b
+    whether ( true ) {
+      counter = 3_4b + 5_4b       
+    } 
+    iter ( counter < 10_4b ) {
+      counter = 5_4b - 3_4b
+	  whether ( true ) {
+		counter = counter + 1_4b
+	  } 
+	
+    }
+  }
+} 
+}

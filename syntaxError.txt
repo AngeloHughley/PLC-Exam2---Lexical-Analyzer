@@ -1,0 +1,15 @@
+
+class Main   //Missing  right bracket
+  public method main ( void ) {   
+    number c = 0_4b   
+    whether  true ) {  //Missing parenthesis
+      counter = 3_4b + 5_4b 
+    }
+    ite  ( counter < 10_4b ) {  //Iter statement not declared properly
+      counter = 5_4b - 3_4b
+	  whethe ( true ) {  //Whether statement not declared properly 
+		counter = counter + 1_4b
+	  //Missing left bracket from Determine statement
+    }
+  }
+}

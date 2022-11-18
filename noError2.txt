@@ -1,0 +1,13 @@
+
+class Main {
+  public method main ( void ) {
+    num c = 0_4b
+    whether ( true ) {
+      counter = 3_4b + 5_4b       
+    } 
+    whether ( c == 14_4b ){
+	counter = 17_4b
+
+} 
+}
+}
