@@ -58,13 +58,14 @@ b. EBNF Rules
   Input strings are read from left to right 
     
   d. Is it ambiguous?
+    
     This is a LL(1) Grammar, there is no form of ambiguity.
     
   h.
     
  
-![unnamed](https://user-images.githubusercontent.com/60718254/202832874-1049179e-9c04-41bc-900e-899eceefb9d1.PNG)
-![unnamed2](https://user-images.githubusercontent.com/60718254/202832882-b87f6a55-5d29-40dd-94e3-f5872f653e92.PNG)
-![unnamed3](https://user-images.githubusercontent.com/60718254/202832889-e0052d7f-91f0-4070-b6d4-29e0b0fbf5b5.PNG)
+![unnamed](https://user-images.githubusercontent.com/60718254/202868400-bc653ecc-db3b-46d1-bf25-ed053452b711.PNG)
+![unnamed2](https://user-images.githubusercontent.com/60718254/202868499-bb0462de-6cec-4dcf-98ba-ca8383c2d608.PNG)
+![unnamed3](https://user-images.githubusercontent.com/60718254/202868554-f6b24bea-2ffd-443e-a49c-1cc9802ed961.PNG)
 ![Capture](https://user-images.githubusercontent.com/60718254/202832779-b169a07c-7f01-4f87-ac8c-b90c94ac5bfe.PNG)
 
