@@ -2,6 +2,7 @@
 class Main {
   public method main ( void ) {
     num c = 0_4b
+    dec a = 1.5_8b
     whether ( true ) {
       counter = 3_4b + 5_4b       
     } 
