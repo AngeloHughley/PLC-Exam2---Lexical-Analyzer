@@ -67,5 +67,6 @@ b. EBNF Rules
 ![unnamed](https://user-images.githubusercontent.com/60718254/202868400-bc653ecc-db3b-46d1-bf25-ed053452b711.PNG)
 ![unnamed2](https://user-images.githubusercontent.com/60718254/202868499-bb0462de-6cec-4dcf-98ba-ca8383c2d608.PNG)
 ![unnamed3](https://user-images.githubusercontent.com/60718254/202868554-f6b24bea-2ffd-443e-a49c-1cc9802ed961.PNG)
-![Capture](https://user-images.githubusercontent.com/60718254/202832779-b169a07c-7f01-4f87-ac8c-b90c94ac5bfe.PNG)
+![Capture](https://user-images.githubusercontent.com/60718254/202868680-7be55fd3-549f-4fb1-a037-7020e92c9fd6.PNG)
+
 
