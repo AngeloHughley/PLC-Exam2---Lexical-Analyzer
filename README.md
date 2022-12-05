@@ -22,28 +22,8 @@ a. REGEX Rules
 
 b. EBNF Rules
 
-  <program> → ‘public method main (void)’ <statement_list> 
+  ![PLCb](https://user-images.githubusercontent.com/60718254/205716619-fc081e1c-61c4-4f5f-b155-7f6d0fc6cae4.png)
   
-  <statement_list> → <statement> { <statement> }
-    
-  <statement>  → <assignment_statement> | <if_statement> | <loop_statement> | <block>
-    
-  <block> → ‘{‘  { <statement> } ‘ }’
-    
-  <if_statement> → ‘whether’  ‘(‘ <boolean_expression> ‘)’ <statement> [‘else’ <statement>]
-    
-  <loop_statement> → ‘iter’ ‘(‘ <boolean_expression> ‘)’ <statement> 
-    
-  <assignment_statement> → ‘identifier’ ‘=’ <expression>
-    
-  <boolean_expression> → <term> {(‘==’ | ‘!=’ | ‘>=’ | ‘<=’ | ‘>’ | ‘<’) <term>} 
-    
-  <expression> → <term> { (‘+’ | ‘-’) <term>}
-    
-  <term> → <factor> { (‘*’ | ‘/’ | ‘%’) <factor> }
-    
-  <factor> → ‘identifier’ | ‘num_lit_4b’ | ‘(‘ <expression> ‘)’
-    
   
   c. Conforming with Standard LL Grammar
     
@@ -62,6 +42,7 @@ b. EBNF Rules
   <expression> must start with a term and then an optional operator
 
   These rules passes the pairwise disjointness test
+    
   Input strings are read from left to right 
     
 
